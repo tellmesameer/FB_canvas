@@ -406,3 +406,12 @@ These convert the TDD from functional to robust.
 ---
 
 If system is expected to evolve beyond MVP, implement the first 7 immediately.
+
+---
+
+# 21. Cross-References
+
+*   **Related Specs**: [03-WebSocket-Protocol-Spec.md](03-WebSocket-Protocol-Spec.md), [04-REST-API-Spec.md](04-REST-API-Spec.md).
+*   **Logic Definitions**: [09-State-Machines.md](09-State-Machines.md).
+*   **Persistence**: [10-Database-Schema-Spec.md](10-Database-Schema-Spec.md).
+

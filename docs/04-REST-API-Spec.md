@@ -472,3 +472,12 @@ System contract layer now fully defined:
 * [Backend TDD](05-Backend-TDD.md)
 * [FRS](02-FRS.md)
 * [BRD](01-BRD.md)
+
+---
+
+# 13. Cross-References
+
+*   **Related Upstream Requirements**: [02-FRS.md](02-FRS.md), [14-Change-Management.md](14-Change-Management.md).
+*   **Related Downstream Implementation**: [10-Database-Schema-Spec.md](10-Database-Schema-Spec.md).
+*   **Validation**: [07-Test-Plan-QA-Strategy.md](07-Test-Plan-QA-Strategy.md).
+

@@ -9,3 +9,11 @@
 | **R-05** | **SQLite Locking (Dev)** | Medium (Latency) | High (if scaled) | Migrate to PostgreSQL for production/concurrency. | mitigation-ready |
 | **R-06** | **Clock Skew** | Low (Visual Jitter) | Medium | Enforce Server Authoritative time; ignore client timestamps. | active |
 | **R-07** | **Memory Leak (Rooms)** | Medium (OOM) | Medium | Strict room expiry (TTL) and cleanup cron jobs. | planned |
+
+---
+
+# Cross-References
+
+*   **Mitigation Tests**: [07-Test-Plan-QA-Strategy.md](07-Test-Plan-QA-Strategy.md).
+*   **Deployment Controls**: [12-Deployment-Plan.md](12-Deployment-Plan.md).
+

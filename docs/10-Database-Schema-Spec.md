@@ -105,3 +105,11 @@ erDiagram
         *   `ON DELETE CASCADE` for Formations.
         *   `ON DELETE CASCADE` for Snapshots.
         *   `ON DELETE CASCADE` for Players/Teams.
+
+---
+
+# 7. Cross-References
+
+*   **API Usage**: [04-REST-API-Spec.md](04-REST-API-Spec.md).
+*   **Operational Context**: [12-Deployment-Plan.md](12-Deployment-Plan.md), [14-Change-Management.md](14-Change-Management.md).
+

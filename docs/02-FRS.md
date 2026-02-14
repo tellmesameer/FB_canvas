@@ -349,3 +349,13 @@ Room {
 * Team rules enforced before match start.
 * Bench and field separation enforced.
 
+---
+
+# 15. Cross-References
+
+*   **Related Upstream Requirements**: [01-BRD.md](01-BRD.md).
+*   **Related Downstream Specifications**: [03-WebSocket-Protocol-Spec.md](03-WebSocket-Protocol-Spec.md), [04-REST-API-Spec.md](04-REST-API-Spec.md).
+*   **Traceability**: [08-Requirements-Traceability-Matrix.md](08-Requirements-Traceability-Matrix.md).
+*   **Validation**: [07-Test-Plan-QA-Strategy.md](07-Test-Plan-QA-Strategy.md).
+
+

@@ -51,3 +51,12 @@
 *   **Input Validation**: Strict type checking on all JSON payloads.
 
 *   **DOS Protection**: Max drag event rate 20/sec per user.
+
+---
+
+# 6. Cross-References
+
+*   **Monitoring**: [12-Deployment-Plan.md](12-Deployment-Plan.md).
+*   **Risk Context**: [13-Risk-Register.md](13-Risk-Register.md).
+*   **Design Constraints**: [01-BRD.md](01-BRD.md).
+

@@ -464,3 +464,12 @@ Frontend architecture now formally aligned with:
 * [FRS](02-FRS.md)
 * [WebSocket Protocol](03-WebSocket-Protocol-Spec.md)
 * [Backend TDD](05-Backend-TDD.md)
+
+---
+
+# 19. Cross-References
+
+*   **Related Design**: [01-BRD.md](01-BRD.md) (Visuals), [03-WebSocket-Protocol-Spec.md](03-WebSocket-Protocol-Spec.md).
+*   **Performance Limits**: [11-Non-Functional-Requirements.md](11-Non-Functional-Requirements.md).
+*   **Validation**: [07-Test-Plan-QA-Strategy.md](07-Test-Plan-QA-Strategy.md).
+

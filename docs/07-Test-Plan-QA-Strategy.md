@@ -330,3 +330,12 @@ Rollback steps:
 * **Resource limits on CI** — offload heavy load tests to dedicated infra.
 
 ---
+
+# 18. Cross-References
+
+*   **Traceability Source**: [08-Requirements-Traceability-Matrix.md](08-Requirements-Traceability-Matrix.md).
+*   **Risk Source**: [13-Risk-Register.md](13-Risk-Register.md).
+*   **Deployment Gate**: [12-Deployment-Plan.md](12-Deployment-Plan.md).
+
+
+---

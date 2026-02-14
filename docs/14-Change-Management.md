@@ -29,3 +29,11 @@ If a change breaks existing clients (e.g. changing event payload structure):
 1.  Bump Protocol Version.
 2.  Force client refresh (Server sends `FORCE_RELOAD` event).
 3.  Deploy during maintenance window.
+
+---
+
+# 5. Cross-References
+
+*   **API specs**: [03-WebSocket-Protocol-Spec.md](03-WebSocket-Protocol-Spec.md), [04-REST-API-Spec.md](04-REST-API-Spec.md).
+*   **DB Migration**: [10-Database-Schema-Spec.md](10-Database-Schema-Spec.md).
+

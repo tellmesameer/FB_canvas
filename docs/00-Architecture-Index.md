@@ -24,6 +24,9 @@ This document serves as the master entry point for the Real-Time Collaborative F
 | **14** | **VER** | [Change Management](14-Change-Management.md) | Versioning and deprecation policies. |
 | **15** | **AUDIT** | [Documentation Gap Audit](15-Documentation-Gap-and-Cross-Reference-Audit.md) | Gap analysis and cross-reference recommendations. |
 
+> **Note:** Use [08-Requirements-Traceability-Matrix.md](08-Requirements-Traceability-Matrix.md) to verify that every requirement in `01`/`02` has a corresponding Test Case in `07`.
+
+
 ## 3. System Overview
 
 ```mermaid

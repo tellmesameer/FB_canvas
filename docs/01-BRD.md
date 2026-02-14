@@ -191,6 +191,16 @@ Optional future capabilities:
 
 ---
 
+# 9. Cross-References
+
+*   **Related Upstream Requirements**: None (Root Document).
+*   **Related Downstream Specifications**: [02-FRS.md](02-FRS.md), [11-Non-Functional-Requirements.md](11-Non-Functional-Requirements.md).
+*   **Traceability**: [08-Requirements-Traceability-Matrix.md](08-Requirements-Traceability-Matrix.md).
+*   **Validation**: [07-Test-Plan-QA-Strategy.md](07-Test-Plan-QA-Strategy.md).
+
+
+---
+
 # 6. Updated Non-Functional Requirements (BRD-NFR-011)
 
 > **Note:** Detailed NFRs are now maintained in [11-Non-Functional-Requirements.md](11-Non-Functional-Requirements.md). The list below is a summary.

@@ -65,3 +65,12 @@ Managed via `.env` file (not committed).
 ## 5. Backup Strategy
 *   **Database**: Daily `pg_dump` to S3 buckets. Retention: 7 days.
 *   **Redis**: Not backed up (Ephemeral/Cache only). Start-up rebuilds state from DB.
+
+---
+
+# 6. Cross-References
+
+*   **NFR Objectives**: [11-Non-Functional-Requirements.md](11-Non-Functional-Requirements.md).
+*   **Change Policy**: [14-Change-Management.md](14-Change-Management.md).
+*   **Infrastructure**: [10-Database-Schema-Spec.md](10-Database-Schema-Spec.md).
+

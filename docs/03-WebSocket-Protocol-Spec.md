@@ -297,3 +297,12 @@ Server `ERROR` message:
 6. Client A: `RELEASE_LOCK`
 7. Server broadcasts final `STATE_UPDATE` + `LOCK_RELEASED`
 
+---
+
+# 12. Cross-References
+
+*   **Related Upstream Requirements**: [02-FRS.md](02-FRS.md), [11-Non-Functional-Requirements.md](11-Non-Functional-Requirements.md).
+*   **Related Downstream Implementation**: [05-Backend-TDD.md](05-Backend-TDD.md), [09-State-Machines.md](09-State-Machines.md).
+*   **Validation**: [07-Test-Plan-QA-Strategy.md](07-Test-Plan-QA-Strategy.md) (Section 6).
+
+

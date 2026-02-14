@@ -79,4 +79,12 @@ sequenceDiagram
     Note over Client, Server: Replay Buffer
     Server->>Client: Send Missed Events (since Snapshot)
     end
+
+---
+
+# 5. Cross-References
+
+*   **Implemented By**: [03-WebSocket-Protocol-Spec.md](03-WebSocket-Protocol-Spec.md), [05-Backend-TDD.md](05-Backend-TDD.md).
+*   **Requirements Source**: [02-FRS.md](02-FRS.md).
+
 ```
