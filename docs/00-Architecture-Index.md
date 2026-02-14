@@ -22,6 +22,7 @@ This document serves as the master entry point for the Real-Time Collaborative F
 | **12** | **OPS** | [Deployment Plan](12-Deployment-Plan.md) | Docker, Redis, and DevOps procedures. |
 | **13** | **RISK** | [Risk Register](13-Risk-Register.md) | Known risks and mitigation strategies. |
 | **14** | **VER** | [Change Management](14-Change-Management.md) | Versioning and deprecation policies. |
+| **15** | **AUDIT** | [Documentation Gap Audit](15-Documentation-Gap-and-Cross-Reference-Audit.md) | Gap analysis and cross-reference recommendations. |
 
 ## 3. System Overview
 
@@ -46,4 +47,5 @@ graph TD
 
 | Version | Date | Author | Changes |
 | :--- | :--- | :--- | :--- |
+| v1.1 | 2026-02-14 | Architecture Team | Added documentation gap and cross-reference audit entry (Doc 15). |
 | v1.0 | 2026-02-14 | Architecture Team | Initial Restructuring and Index creation. |
