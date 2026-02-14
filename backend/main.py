@@ -68,10 +68,12 @@ async def websocket_endpoint(websocket: WebSocket, room_id: str, client_id: str)
     try:
         while True:
             data = await websocket.receive_text()
-            # Parse data, validate, update state, broadcast
-            # For now, echo/broadcast raw data for MVP logic or basic testing
-            # Real implementation needs to handle specific message types ("move", "cursor", etc.)
+            # Parse data
             message = json.loads(data)
+            
+            msg_type = message.get("type", "unknown")
+            logger.info(f"Received WS message from {client_id} in room {room_id}: type='{msg_type}' content={str(message)[:100]}...") # Log first 100 chars
+            
             await manager.broadcast(message, room_id, exclude=websocket)
             
     except WebSocketDisconnect:
